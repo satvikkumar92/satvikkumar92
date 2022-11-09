@@ -1,7 +1,7 @@
 ### About Me
 
 - 👋 Hi, I’m Satvik Kumar
-- 👀 I’m interested in Data Engineering, Data Architecture Designing, Big Data Solutions, ML System Designing
+- 👀 I’m interested in Data Engineering, Data Architecture Designing, Big Data Solutions, and ML System Designing
 
 ### I can be reached at:
 
